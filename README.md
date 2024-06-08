@@ -1,4 +1,4 @@
-# adim906
+# Adi Meller
 
 <img src="Default_Explore_the_endless_possibilities_of_coding_with_a_cre_2.jpg" alt="Profile Image" width="450">
 
