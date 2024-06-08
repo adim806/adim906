@@ -1,7 +1,6 @@
 # adim906
 
-![MasterHead](https://user-images.githubusercontent.com/80007339/164998624-488b6e8d-b4c8-4d32-952e-e73834e0623f.gif)
-![Profile Image](images/Default_Explore_the_endless_possibilities_of_coding_with_a_cre_2.jpg)
+![Profile Image](Default_Explore_the_endless_possibilities_of_coding_with_a_cre_2.jpg)
 <h1 align="center">Hi, I'm Adi Meller</h1>
 
 🌱 I’m currently learning JavaScript(Node, React) and MongoDB.<br>📫 How to reach me malikovshmuel@gmail.com<br>⚡ Fun fact Fan of marvel cinematics
