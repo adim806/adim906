@@ -1,6 +1,7 @@
 # adim906
 
-![Profile Image](Default_Explore_the_endless_possibilities_of_coding_with_a_cre_2.jpg)
+<img src="images/Default_Explore_the_endless_possibilities_of_coding_with_a_cre_2.jpg" alt="Profile Image" width="300">
+
 <h1 align="center">Hi, I'm Adi Meller</h1>
 
 🌱 I’m currently learning JavaScript(Node, React) and MongoDB.<br>📫 How to reach me malikovshmuel@gmail.com<br>⚡ Fun fact Fan of marvel cinematics
